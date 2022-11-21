@@ -96,8 +96,7 @@ a {
 
 img {
   max-width: 100%;
-  /* height: auto; */
-  height: inherit; /*This is for my image in home section*/
+  height: auto;
 }
 
 /*=============== THEME ===============*/
